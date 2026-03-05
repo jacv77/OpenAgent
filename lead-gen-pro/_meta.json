@@ -1,0 +1,13 @@
+{
+  "name": "lead-gen-pro",
+  "version": "1.0.0",
+  "description": "Professional lead generation and research skill for OpenClaw",
+  "author": "Jacob V",
+  "created": "2026-03-05",
+  "requires": {
+    "skills": ["agent-browser"],
+    "bins": ["chromium", "node"]
+  },
+  "tags": ["lead-generation", "research", "scraping", "business-development"],
+  "emoji": "🎯"
+}
