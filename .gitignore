@@ -1,0 +1,25 @@
+# Sensitive configuration files
+agents/main/agent/auth-profiles.json
+credentials/
+identity/device-auth.json
+openclaw.json
+openclaw.json.bak*
+telegram/
+
+# API keys and tokens
+**/api-key*
+**/token*
+**/*secret*
+
+# Session data
+agents/main/sessions/
+
+# Database files
+*.sqlite
+*.db
+
+# Media files
+media/
+
+# Device pairing
+devices/paired.json

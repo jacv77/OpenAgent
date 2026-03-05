@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/home/rocco/.openclaw/exec-approvals.sock",
+    "token": "zW0X9DCGqCNxw0Nj7yavv6RU0U6hjbrz"
+  },
+  "defaults": {},
+  "agents": {}
+}
