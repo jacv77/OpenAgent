@@ -94,6 +94,16 @@ The OpenClaw agent should use agent-browser whenever it needs to:
 - Automate browser interactions
 - Login to websites
 
+## Browser Installation
+
+Before first use, install the Playwright browsers:
+
+```bash
+npx playwright install
+```
+
+This downloads the required Chromium browser for agent-browser to use.
+
 ## Verification
 
 To verify the skill is available to your agent:
@@ -101,6 +111,14 @@ To verify the skill is available to your agent:
 ```bash
 # Check if agent-browser is installed
 agent-browser --version
+
+# Install browsers (first time only)
+npx playwright install
+
+# Test basic functionality
+agent-browser open https://example.com
+agent-browser snapshot -i
+agent-browser close
 
 # List available skills (should show agent-browser)
 openclaw skills list
