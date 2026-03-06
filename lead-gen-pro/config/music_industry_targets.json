@@ -1,0 +1,209 @@
+{
+  "target_audience": {
+    "industry": "Music and Audiovisual",
+    "company_website": "noctil.com",
+    "value_proposition": "Rights management and licensing solutions",
+    "segments": [
+      {
+        "name": "Music Producers",
+        "description": "Independent and studio music producers",
+        "target_roles": ["Producer", "Studio Owner", "Head of Production", "Creative Director"],
+        "search_terms": [
+          "music production companies",
+          "recording studios",
+          "music producers",
+          "audio production studios"
+        ],
+        "pain_points": [
+          "Rights tracking and management",
+          "Licensing and royalty collection",
+          "Collaboration and project management"
+        ]
+      },
+      {
+        "name": "Record Labels",
+        "description": "Independent and major record labels",
+        "target_roles": ["Label Manager", "A&R Director", "Head of Rights", "Business Affairs"],
+        "search_terms": [
+          "independent record labels",
+          "music labels",
+          "record companies",
+          "indie labels"
+        ],
+        "pain_points": [
+          "Catalog management",
+          "Rights administration",
+          "Royalty distribution"
+        ]
+      },
+      {
+        "name": "Music Publishers",
+        "description": "Music publishing companies managing songwriter rights",
+        "target_roles": ["Publisher", "Head of Publishing", "Rights Manager", "Creative Director"],
+        "search_terms": [
+          "music publishing companies",
+          "music publishers",
+          "song publishers",
+          "publishing administration"
+        ],
+        "pain_points": [
+          "Copyright management",
+          "Royalty collection",
+          "Licensing administration"
+        ]
+      },
+      {
+        "name": "Music Licensing Companies",
+        "description": "Companies specializing in music licensing for media",
+        "target_roles": ["Licensing Director", "Head of Licensing", "Business Development", "CEO"],
+        "search_terms": [
+          "music licensing companies",
+          "sync licensing",
+          "music supervision",
+          "production music libraries"
+        ],
+        "pain_points": [
+          "Rights clearance",
+          "License tracking",
+          "Client management"
+        ]
+      },
+      {
+        "name": "Performance Rights Organizations",
+        "description": "PROs collecting performance royalties (ASCAP, BMI, SESAC equivalents)",
+        "target_roles": ["Executive Director", "Head of Operations", "Technology Director", "Membership Director"],
+        "search_terms": [
+          "performance rights organizations",
+          "PRO music",
+          "performing rights society",
+          "music royalty collection"
+        ],
+        "pain_points": [
+          "Data management at scale",
+          "Distribution accuracy",
+          "Member services"
+        ]
+      },
+      {
+        "name": "Neighboring Rights Organizations",
+        "description": "Organizations collecting neighboring rights for performers and labels",
+        "target_roles": ["Managing Director", "Head of Collections", "Technology Lead", "Operations Manager"],
+        "search_terms": [
+          "neighboring rights organizations",
+          "neighboring rights collection",
+          "performer rights",
+          "sound recording rights"
+        ],
+        "pain_points": [
+          "International collection",
+          "Rights tracking",
+          "Distribution management"
+        ]
+      },
+      {
+        "name": "Collective Management Organizations",
+        "description": "CMOs managing various music rights collectively",
+        "target_roles": ["CEO", "CTO", "Head of Rights Management", "Operations Director"],
+        "search_terms": [
+          "collective management organizations",
+          "CMO music",
+          "rights management organizations",
+          "music rights collective"
+        ],
+        "pain_points": [
+          "Complex rights management",
+          "Multi-territory administration",
+          "Technology modernization"
+        ]
+      },
+      {
+        "name": "Music Tech Companies",
+        "description": "Technology companies serving the music industry",
+        "target_roles": ["CEO", "CTO", "Head of Product", "Business Development"],
+        "search_terms": [
+          "music tech companies",
+          "music technology startups",
+          "music software companies",
+          "music industry technology"
+        ],
+        "pain_points": [
+          "Integration with rights systems",
+          "Data standardization",
+          "Industry partnerships"
+        ]
+      },
+      {
+        "name": "Mechanical Rights Organizations",
+        "description": "Organizations collecting mechanical royalties",
+        "target_roles": ["Executive Director", "Head of Mechanical Rights", "Technology Director", "Operations Manager"],
+        "search_terms": [
+          "mechanical rights organizations",
+          "mechanical licensing",
+          "mechanical royalty collection",
+          "reproduction rights"
+        ],
+        "pain_points": [
+          "Streaming royalty calculation",
+          "Rights data accuracy",
+          "Distribution efficiency"
+        ]
+      },
+      {
+        "name": "Rights Administration Companies",
+        "description": "Companies providing rights administration services",
+        "target_roles": ["Head of Administration", "Rights Manager", "CEO", "Director of Operations"],
+        "search_terms": [
+          "music rights administration",
+          "rights administration companies",
+          "music rights management services",
+          "publishing administration"
+        ],
+        "pain_points": [
+          "Multi-territory management",
+          "Client reporting",
+          "Rights data quality"
+        ]
+      }
+    ]
+  },
+  "rotation_schedule": {
+    "description": "Rotate through different segments each day for diverse lead generation",
+    "schedule": [
+      {"day": "Monday", "segment": "Music Producers"},
+      {"day": "Tuesday", "segment": "Record Labels"},
+      {"day": "Wednesday", "segment": "Music Publishers"},
+      {"day": "Thursday", "segment": "Music Licensing Companies"},
+      {"day": "Friday", "segment": "Performance Rights Organizations"},
+      {"day": "Saturday", "segment": "Music Tech Companies"},
+      {"day": "Sunday", "segment": "Rights Administration Companies"}
+    ]
+  },
+  "email_customization": {
+    "company_context": "noctil.com provides rights management and licensing solutions for the music industry",
+    "value_propositions": [
+      "Streamlined rights management and tracking",
+      "Automated royalty collection and distribution",
+      "Comprehensive licensing administration",
+      "Real-time rights data and analytics",
+      "Multi-territory rights management",
+      "Integration with industry standards (DDEX, CWR, etc.)"
+    ],
+    "call_to_action": "Learn how noctil.com can streamline your rights management"
+  },
+  "geographic_focus": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Germany",
+    "France",
+    "Netherlands",
+    "Sweden",
+    "Global/International"
+  ],
+  "company_size_preference": [
+    "Independent (1-50 employees)",
+    "Mid-size (50-200 employees)",
+    "Enterprise (200+ employees)"
+  ]
+}
