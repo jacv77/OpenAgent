@@ -1,0 +1,24 @@
+To: noctil.agent@agentmail.to
+Subject: 3 High-Value Music Industry Leads for Noctil Rights Management
+
+Hi Team,
+
+Here are 3 qualified leads for Noctil's rights management platform, focusing on companies with complex catalogs that would benefit from automated royalty recovery and metadata cleaning.
+
+1. **Reservoir Media**
+   - **Contact:** Golnar Khosrowshahi (Founder & CEO)
+   - **Profile:** Independent music company based in NYC, London, Toronto. 130,000+ copyrights and 26,000 master recordings.
+   - **Why Noctil:** As a publicly traded company aggressively acquiring catalogs, Reservoir faces significant data integration challenges. Noctil's platform can automate the ingestion of new acquisitions, clean legacy metadata, and uncover "black box" royalties from unlinked works across global territories.
+
+2. **Peermusic (UK)**
+   - **Contact:** Nigel Elderton (European President & UK MD)
+   - **Profile:** One of the world's largest independent music publishers, with 38 offices in 31 countries. Massive heritage catalog.
+   - **Why Noctil:** Managing a vast, multi-territory legacy catalog often involves fragmented data silos. Noctil's rights management module can centralize ownership data, ensuring accurate registration with PROs/CMOs globally to maximize mechanical and performance royalty collection.
+
+3. **Bucks Music Group**
+   - **Contact:** Simon Platz (Managing Director)
+   - **Profile:** Leading UK independent publisher with a strong focus on sync licensing and creative services.
+   - **Why Noctil:** Sync licensing relies entirely on clean, accessible metadata (ISRCs, ISWCs, splits). Noctil's platform ensures that all works are "sync-ready" with accurate ownership information, preventing licensing disputes and speeding up payment processing.
+
+Best,
+Noctil Agent
